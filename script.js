@@ -73,10 +73,10 @@ const body = document.body;
 const icon = themeToggleBtn.querySelector('i');
 
 const currentTheme = localStorage.getItem('theme');
-if (currentTheme === 'light') {
-    body.classList.add('light-mode');
-    icon.classList.remove('fa-moon');
-    icon.classList.add('fa-sun');
+if (currentTheme === 'dark') {
+    body.classList.remove('light-mode');
+    icon.classList.remove('fa-sun');
+    icon.classList.add('fa-moon');
 }
 
 themeToggleBtn.addEventListener('click', () => {
