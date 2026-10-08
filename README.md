@@ -7,6 +7,8 @@
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)
 
 A modern, responsive, and beautifully designed static web portfolio built to showcase data engineering experience, projects, academic publications, and certifications.
 
